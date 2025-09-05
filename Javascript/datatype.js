@@ -146,3 +146,5 @@ function displayDetails(...args) {
     console.log(args);
 }
 displayDetails(...details);
+
+// 
